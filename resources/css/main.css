@@ -29,14 +29,6 @@ menu li {
 a {
     color: white;
 }
-.header-background {
-    background-image: url("../images/the-flatiron-building.png");
-    background-position: center;
-}
-.subheader-background {
-    background-image: url("../images/the-flatiron-building.png");
-    background-position: center;
-    color: white;
 }
 footer {
     font-size: 11px;
@@ -50,3 +42,11 @@ footer a {
 footer p {
     font-size: 11px;
 }
+.header-background {
+    background-image: url("../images/the-flatiron-building.png");
+    background-position: center;
+}
+.subheader-background {
+    background-image: url("../images/the-flatiron-building.png");
+    background-position: center;
+    color: white;
